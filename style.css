@@ -1,0 +1,119 @@
+
+
+#cabecera{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1%;
+    
+
+}
+
+
+
+#menu3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    margin-left: 18%;
+}
+
+
+#menu2{
+    
+    color: gray;
+}
+
+#menu5{
+   
+    color: white;
+    
+}
+
+#menuletra{
+    color: white;
+    
+}
+#menu6{
+   
+    color: green;
+}
+
+
+
+.tarjetas{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+
+.subtitu{
+    margin-top: 1%;
+    text-align: center;
+}
+
+
+
+
+.oct{
+    color: white;
+    margin-left: 20px;
+    
+}
+
+#museoagua{
+    filter: brightness(40%); 
+
+}
+
+
+
+.footprincipal{
+    background-color: rgb(30, 53, 67);
+    padding: 1%;
+
+}
+
+
+
+
+#menu7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#menu5{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#formcampo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25%;
+    
+}
+
+#formboton{
+
+    margin-left: 25%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+
+#textooct{
+    padding: 2%;
+}
+
+#botonoct{
+    margin-left: 2%;
+}
+
+
