@@ -1,3 +1,3 @@
 # ConfBsAs
 
-Ejercicio Bootsrap CODO A CODO
+Ejercicio Bootstrap CODO A CODO
